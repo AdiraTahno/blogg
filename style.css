@@ -1,0 +1,13 @@
+.movies_header {
+    padding: 6px 22px;
+        display: inline-block;
+    font-size:20px;
+    width:100%;
+    border-radius: 20px;
+    
+        
+}
+
+.downarrow {
+    float:right;
+}
